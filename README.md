@@ -1,2 +1,3 @@
 # hello-world
-repository testing
+
+I'm AtmaWPN, and I like coding games.
